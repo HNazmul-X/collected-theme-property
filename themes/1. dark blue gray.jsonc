@@ -1,0 +1,42 @@
+{
+    "[Default Light+]": {
+        "editor.background": "#d9e2e4",
+        "editorGutter.background": "#F5F5F5",
+        "editor.lineHighlightBackground": "#E4E4E4"
+    },
+    "[Default Dark+]": {
+        // Editor;
+        "editor.background": "#212435",
+        "editorGutter.background": "#2A2C3F",
+        "editor.lineHighlightBorder": "#252635",
+        "editor.lineHighlightBackground": "#41415e34",
+        // Components;
+        "input.background": "#222336",
+        "input.border": "#333446",
+        "dropdown.background": "#222336",
+        "dropdown.border": "#333446",
+        "settings.focusedRowBackground": "#2A2C3F",
+        "settings.rowHoverBackground": "#2a2c3fa8",
+        // Sidebar
+        "sideBar.background": "#222336",
+        "list.hoverBackground": "#373e54",
+        "list.inactiveSelectionBackground": "#393d49",
+        // Activity Bar;
+        "activityBar.background": "#2A2C3F",
+        "activityBar.inactiveForeground": "#8e92a0",
+        "activityBar.activeBackground": "#3E4451",
+        "activityBar.foreground": "#a39f9f",
+        // Terminal;
+        "terminal.background": "#2A2C3F",
+        // title bar and Tab
+        "titleBar.activeBackground": "#222336",
+        "titleBar.activeForeground": "#a39f9f",
+        "tab.inactiveBackground": "#2A2C3F",
+        "tab.activeBackground": "#3e4157",
+        // Status Bar;
+        "editorWidget.background": "#282B30",
+        "statusBar.background": "#3d4353",
+        "statusBar.debuggingBackground": "#3c2b40",
+        "statusBar.foreground": "#ebe9e9"
+    }
+}
